@@ -101,3 +101,4 @@ This tool walks through URLs from a CSV file, shows timings for each page, count
 ## License
 
 This project is shared for educational and automation research use. Please review the repository license and respect the terms of any target sites or services you interact with.
+# captcha-solver
