@@ -1,4 +1,4 @@
-# Google Recaptcha Bypass
+# Captcha Bypass
 
 A small Python automation project for detecting and handling CAPTCHA-protected pages in browser-driven workflows. The repository includes a browser-based URL review script, CAPTCHA detection patterns, and an audio-based reCAPTCHA solver built on top of DrissionPage.
 
